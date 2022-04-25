@@ -3,13 +3,13 @@
   "description": "Ui_path traning",
   "main": "Main.xaml",
   "dependencies": {
-    "Acme_activity": "[1.0.4]",
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Credentials.Activities": "[2.0.0]",
-    "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.Mail.Activities": "[1.12.3]",
-    "UiPath.System.Activities": "[21.10.4]",
-    "UiPath.UIAutomation.Activities": "[21.10.5]"
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.1]",
+    "UiPath.System.Activities": "[22.4.0]",
+    "UiPath.UIAutomation.Activities": "[21.10.5]",
+    "UiPathTeam.AttendedRobotStatus.Activities": "[1.0.30]"
   },
   "webServices": [],
   "entitiesStores": [],
